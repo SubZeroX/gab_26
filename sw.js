@@ -27,17 +27,17 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-64b6df7ac7a2259506a4.js"
+    "url": "webpack-runtime-20b9d42bcf64887e7f61.js"
   },
   {
     "url": "framework-c01a0bd4b9d4919906bb.js"
   },
   {
-    "url": "app-6b32950947ef8acc69b3.js"
+    "url": "app-1dc87443f4605f32185d.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "be3b6268c0ab88cf4ab692ab578e31da"
+    "revision": "dfb7e97d84ae867ea2e0fa8d7671727d"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js"
@@ -48,7 +48,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "319e8ceff03dbe63cb3b5350cd6d9c5b"
+    "revision": "275420fa4054c7ddce47cd6c14478d79"
   },
   {
     "url": "polyfill-72546b9ca477f57c2f2e.js"
@@ -138,12 +138,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/Zettel`), ``)
+  pathname = pathname.replace(new RegExp(`^/gab_26`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/Zettel/app-6b32950947ef8acc69b3.js`))) {
+  if (!resources || !(await caches.match(`/gab_26/app-1dc87443f4605f32185d.js`))) {
     return await fetch(event.request)
   }
 
@@ -156,7 +156,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/Zettel/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/gab_26/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
