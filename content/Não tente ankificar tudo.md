@@ -1,0 +1,3 @@
+Um ponto importante, que foge um pouco do que tá sendo dito sobre o anki, mas que talvez seja o motivo que causa desânimo do programa é tentar ankificar tudo. Tava vindo com esse erro de na primeira vista da materia elaborar 100 perguntas e achar que tava ótimo. Perde-se muito o contexto e tem momentos que vc se pergunta o porquê de ter feito aquele card. 
+
+Tô achando imprescindível hoje primeiro ter um resumo mais corrido da matéria - aí entra o ob, notion, etc - e só depois ir passando o olho no geral e tentar pescar só os pedaços de info que vc sente que precisa gravar. Se não entra muito lixo.

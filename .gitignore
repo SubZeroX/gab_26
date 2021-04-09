@@ -1,0 +1,8 @@
+node_modules/
+.cache/
+.obsidian/
+public/
+gatsby-config
+package
+package-lock
+yarn

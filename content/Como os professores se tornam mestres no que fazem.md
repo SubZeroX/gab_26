@@ -1,0 +1,5 @@
+Mas vamos lá, desde da faculdade (cursei Engenharia) via professores fazendo algo semelhante como esse do Direito que citam o número do Artigo e o artigo completo com uma facilidade tremenda. Eles davam aula de 2h apenas com a caneta na mão, mais nada, sem nenhum livro ou slide. Era um quadro branco e começava a escrever um monte de conteúdo complexo e difícil também. 
+
+E como aqui no interior do RJ temos uma relação próxima com os professores (saíamos pra almoçar junto, coisas do tipo), e já perguntei para um deles: Cara, como você consegue explicar aquelas aulas com tanta facilidade? Aquelas fórmulas enormes e tal?
+
+Ele me respondeu: Nem sempre foi assim, no começo, todo dia na véspera de ministrar aula, eu tinha que reler meu resumo e ficava com ele na mão o tempo todo. E continuei fazendo isso por muito tempo, até o dia que eu apenas olhava o título do resumo e já sabia o desenrolar da 'história', e mesmo assim, ainda esquecia uma coisa ou outra no meio do caminho. Foi o tempo e paixão por ser professor.

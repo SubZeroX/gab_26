@@ -1,0 +1,5 @@
+# Terminologias
+## Esterilização
+
+
+# Controle físico
